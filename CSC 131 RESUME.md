@@ -5,7 +5,7 @@ Education
 ---------
 
 2015-2019 (expected) 
-:  **BS, Computer Science; Sacramento State 
+:  **BS, Computer Science; Sacramento State** 
 
 Experience
 ----------
