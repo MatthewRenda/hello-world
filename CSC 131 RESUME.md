@@ -10,11 +10,11 @@ Education
 Experience
 ----------
 
-** Object Oriented Team Project**
+**Object Oriented Team Project**
 
   Small team based project utilizing object oriented, written in C++.
   
-** Hash Table Individual Project**
+**Hash Table Individual Project**
 
   Individual Project in which the class was asked to create a hashtable that could function with abstract data. Written in C++.
   
