@@ -19,4 +19,6 @@ Output
 ---------
 For this project I chose to output my data to a "Task_Manager_Log.txt" file.
 
-Overall the design for this program is greatly lacking and I hope to improve later on.
+
+
+**Overall the design for this program is greatly lacking and I hope to improve later on.**
